@@ -7,8 +7,7 @@ Chapter 0: Introduction and Preliminaries
 short_answer
 
 ## Problem Statement
-Examine the following formal descriptions of sets so that you understand which members they contain. Write a short informal English description of
-each set.
+Examine the following formal descriptions of sets so that you understand which members they contain. Write a short informal English description of each set.
 a. {1, 3, 5, 7, . . . }
 b. { . . . ,−4,−2, 0, 2, 4, . . . }
 c. {n| n = 2m for some m in N}
